@@ -1,0 +1,4 @@
+- 👋 Sup, I’m @CasualFoxpro
+- 👀 I’m currently interested in roblox scripting
+- 🌱 I’m currently learning lua
+- 📫 How to reach me: discord: CasuallyFoxpro#0845
